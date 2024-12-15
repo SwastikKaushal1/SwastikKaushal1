@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @SwastikKaushal1
-- 👀 I’m interested in computer science
-- 🌱 I’m currently in 12th Non medical
+🌟 Hi there, I'm Swastik Kaushal!
+
+🔭 I’m a Class 12 student passionate about computer science and programming.
+🌱 Currently learning Python, web development, and working on personal projects.
+💡 Interests: AI, Machine Learning, and Cybersecurity.
+🚀 Fun fact: I love exploring how technology solves real-world problems.
+📫 Reach me at: swastik2022008@gmail.com
+
 
 <!---
 SwastikKaushal1/SwastikKaushal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
