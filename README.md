@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Swastik Kaushal
 
-#### Class 12th graduate & developer. I build clean projects using Java, Python (FastAPI), and C++. Passionate about open-source.
-
-
+#### Undergraduate Computer Science student & developer. I build clean projects using Java, Python (FastAPI), and C++. Passionate about open-source.
 ---
 
 ### 🌐 Connect with me:
